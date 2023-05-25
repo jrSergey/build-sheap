@@ -1,0 +1,893 @@
+@media(max-width: 1200px) {
+    .main-secion {
+        width: 320px;
+    }
+
+    .mobile-menu {
+        opacity: 1;
+        visibility: visible;
+        margin-top: 8px;
+        display: flex;
+    }
+
+    .header-section {
+        margin-top: 5px;
+        width: 480px;
+        height: 512px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 0 80px;
+    }
+
+    .header-logo {
+        width: 268px;
+        height: 59.05px;
+    }
+
+    .header-logo-link {
+        width: 51.26px;
+        height: 59.05px;
+    }
+
+    .header-logo-content {
+        margin-left: 26px;
+    }
+    
+    .header-logo-main-content {
+        width: 192.73px;
+        height: 35.69px;
+        font-size: 28px;
+    }
+
+    .header-logo-secondary-content {
+        font-size: 13px;
+        width: 306.12px;
+        height: 21.52px;
+        margin: 5.6px 0 5.91px;
+    }
+
+    .header-contact {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        width: 300px;
+        height: 76px;
+        margin-top: 27.95px;
+    }
+
+    .header-contact-number {
+        font-size: 23px;
+        height: 53px;
+    }
+    
+    .header-contact-address {
+        font-size: 11px;
+        height: 23px;
+    }
+
+    .header-btn-contact {
+        margin-top: 16px;
+    }
+    
+    .header-ikon-box {
+        display: flex;
+        flex-direction: row;
+        margin-top: 21px;
+        width: 150px;
+        height: 33px;
+    }
+
+    .header-ikon {
+        margin: 0;
+    }
+
+    .header-ikon-active {
+        opacity: 1;
+        visibility: visible;
+        width: 121px;
+        height: 26px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 17px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: rgba(255, 255, 255, 0.8);
+        text-decoration: none;
+    }
+
+    .header-img-1 {
+        position: absolute;
+        width: 480px;
+        height: 512px;
+        background-image: url(imges/mobile-form/group_765/Rectangle\ 475.svg);
+        background-repeat: no-repeat;
+        background-position-x: left;
+        background-position-y: bottom;
+    }
+    
+    .header-img-2 {
+        position: absolute;
+        width: 480px;
+        height: 512px;
+        background-image: url(imges/mobile-form/group_765/Rectangle\ 480.svg);
+        background-repeat: no-repeat;
+        background-position-x: 44.66px;
+        background-position-y: 325.74px;
+    }
+    
+    .header-img-3 {
+        position: absolute;
+        width: 480px;
+        height: 512px;
+        background-image: url(imges/mobile-form/group_765/Rectangle\ 480-1.svg);
+        background-repeat: no-repeat;
+        background-position-x: 139.76px;
+        background-position-y: bottom;
+    }
+    
+    .header-img-4 {
+        position: absolute;
+        width: 480px;
+        height: 512px;
+        background-image: url(imges/mobile-form/group_765/Rectangle\ 480-2.svg);
+        background-repeat: no-repeat;
+        background-position-x: 234.13px;
+        background-position-y: 325.76px;
+    }
+    
+    .header-img-5 {
+        position: absolute;
+        width: 480px;
+        height: 512px;
+        background-image: url(imges/mobile-form/group_765/Rectangle\ 476.svg);
+        background-repeat: no-repeat;
+        background-position-x: right;
+        background-position-y: 232px;
+    }
+    
+    .header-img-6 {
+        position: absolute;
+        width: 480px;
+        height: 512px;
+        background-image: url(imges/mobile-form/group_765/Rectangle\ 483.svg);
+        background-repeat: no-repeat;
+        background-position-x: right;
+        background-position-y: bottom;
+    }
+    
+    .header-img-7 {
+        position: absolute;
+        width: 480px;
+        height: 512px;
+        background-image: url(imges/mobile-form/group_765/Rectangle\ 476-1.svg);
+        background-repeat: no-repeat;
+        background-position-x: right;
+        background-position-y: 327px;
+    }
+    
+    .header-img-8 {
+        display: none;
+    }
+
+    .navigation-section {
+        display: none;
+    }
+
+    .search {
+        width: 221px;
+        background-position: 11px;
+    }
+
+    input[type=text] {
+        font-size: 12px;
+        padding-left: 33px;
+    }
+
+    .submit {
+        padding-bottom: 1px;
+        width: 79px;
+        height: 39px;
+        background: #C4C4C4;
+    }
+    
+    button[type=submit] {
+        font-family: 'Inter';
+        font-size: 14px;
+    }
+
+
+
+
+
+    .action-1 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 37px;
+        width: 480px;
+        height: 574px;
+        background: url(imges/mobile-form/action-1/6464687091\ 1.svg) no-repeat bottom, linear-gradient(0.21deg, #212121 7.99%, #003471 99.71%);;    
+    }
+    
+    .action-1-img-1 {
+        width: 480px;
+        height: 574px;
+        background-image: url(imges/mobile-form/action-1/Group\ 771.svg);
+        background-repeat: no-repeat;
+        background-position-x: left;
+        background-position-y: 224px;
+    }
+    
+    .action-1-img-2 {
+        width: 480px;
+        height: 574px;
+        background-image: url(imges/mobile-form/action-1/Group\ 792.svg);
+        background-repeat: no-repeat;
+        background-position-x: 99px;
+        background-position-y: 383px;
+    }
+    
+    .action-1-content1 {
+        width: 300px;
+        font-size: 14px;
+        text-align: center;
+        margin: 21px 0 0 0;
+    }
+
+    .action-br {
+        display: inline;
+    }
+    
+    .action-1-content2 {
+        width: 300px;
+        height: 38px;
+        font-size: 29px;
+        text-align: center;
+        margin: 0;
+
+    }
+    
+    .action-1-content3 {
+        width: 300px;
+        height: 129px;
+        margin: 0;
+        text-align: center;
+        font-size: 14px;
+    }
+    
+    .action-1-btn-list {
+        display: flex;
+        flex-direction: column-reverse;
+        align-items: center;
+        margin: 0;
+    }
+    
+    .action-1-btn {
+        margin-top: 23px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 204px;
+        height: 60px;
+        font-size: 14px;
+    }
+    
+    .action-1-list {
+        width: 246px;
+        height: 31px;
+        margin: 0;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        text-align: center;
+    
+    }
+    
+    .action-1-item {
+        font-size: 15px;
+    }
+
+
+
+
+
+
+
+    .action-2 {
+        top: 671px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        margin: 0;
+        width: 480px;
+        height: 574px;
+        background: url(imges/mobile-form/action-2/shtukaturka-background.svg) no-repeat bottom, linear-gradient(0.21deg, #212121 7.99%, #003471 99.71%);  
+    }
+    
+    .action-2-img-1 {
+        position: absolute;
+        width: 480px;
+        height: 574px;
+        background-image: url(imges/mobile-form/action-1/Group\ 771.svg);
+        background-repeat: no-repeat;
+        background-position-x: 149px;
+        background-position-y: 215px;
+    }
+    
+    .action-2-img-2-1 {
+        position: absolute;
+        width: 480px;
+        height: 574px;
+        background-image: url(imges/mobile-form/action-2/shtukaturka-gerkules.svg);
+        background-repeat: no-repeat;
+        background-position: 88px 361.27px;
+    }
+    
+    .action-2-img-2-2 {
+        position: absolute;
+        width: 480px;
+        height: 574px;
+        background-image: url(imges/mobile-form/action-2/shtukaturka-knauf.svg);
+        background-repeat: no-repeat;
+        background-position: 207.3px 355.95px;
+    }
+    
+    .action-2-img-2-3 {
+        position: absolute;
+        width: 480px;
+        height: 574px;
+        background-image: url(imges/mobile-form/action-2/shtukaturka-unis.svg);
+        background-repeat: no-repeat;
+        background-position: 160.64px 353px;
+    }
+    
+    .action-2-main-content {
+        margin: 45px 0 0 0;
+        width: 300px;
+        height: 88px;
+        font-size: 29px;
+    }
+    
+    .action-2-secondary-content {
+        margin: 0;
+        width: 300px;
+        height: 25px;
+        font-size: 14px;
+    }
+    
+    .action-2-list {
+        display: flex;
+        flex-direction: column;
+        align-content: space-between;
+        margin: 20px 0 0 0;
+        width: 161px;
+        height: 77px;
+    }
+    
+    .action-2-item {
+        font-size: 15px;
+        display: flex;
+        align-items: center;
+    }
+        
+    .action-2-btn {
+        margin: 29px 0 0 0px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+    .gallery-section {
+        width: 320px;
+        height: auto;
+        margin-top: 15px;
+        display: flex;
+        align-content: center;
+        flex-direction: column;
+    }
+    
+    .gallery-content {
+        margin-top: 24px;
+        width: 300px;
+        height: 60px;
+        font-size: 24px;
+        text-align: center;
+    }
+    
+    .gallery-box {
+        margin: 8px 10px 0 10px;
+        width: 300px;
+        height: 959px;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-content: space-between;
+    }
+    
+    .gallery-img {
+        width: 143px;
+        height: 157px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        border: 1px solid rgba(0, 0, 0, 0.2);
+    }
+    
+    .gallery-img-unit {
+        width: 143px;
+        height: 100px;
+    }
+    
+    .gallery-img-content {
+        width: 143px;
+        height: 57px;
+        font-size: 13px;
+    }
+    
+    .gallery-btn {
+        margin-top: 17px;
+        width: 300px;
+        height: 45px;
+    }
+
+
+
+
+
+    .about-company-section {
+        width: 480px;
+        height: 978px;
+        margin-top: 28px;
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .about-company-box {
+        padding: 0 90px 0 90px;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+    
+    .about-company {
+        margin: 0;
+        width: 300px;
+        height: 37px;
+    }
+    
+    .about-company-main-content {
+        width: 300px;
+        height: 120px;
+        margin-top: 22px;
+        font-size: 26px;
+    }
+    
+    .about-company-content {
+        width: 300px;
+        height: 143px;
+        font-size: 18px;
+    }
+    
+    .about-company-friends {
+        margin-top: 14px;
+        width: 300px;
+        height: 92px;
+        font-size: 16px;
+    }
+
+    .about-company-logo {
+        margin-top: 21px;
+        width: 271px;
+        height: 141px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-content: space-between;
+
+    }
+    
+    .about-company-logo1 {
+        margin-top: 0;
+        width: 120px;
+        height: 62px;
+    }
+    
+    .about-company-logo2 {
+        margin-top: 0;
+        margin-left: 0;
+        width: 112px;
+        height: 62px;
+
+    }
+    
+    .about-company-logo3 {
+        margin-top: 0;
+        margin-left: 0;
+        width: 107px;
+        height: 73px;
+
+    }
+    
+    .about-company-logo4 {
+        margin-top: 15px;
+        margin-left: 0;
+        width: 152px;
+        height: 37px;
+
+    }
+
+    .about-company-img {
+        padding-top: 0;
+    }
+    
+    .about-company-img-item {
+        padding-top: 14px;
+        width: 480px;
+        height: 374px;
+    }
+    
+
+
+
+
+
+
+
+
+    .advantages-section {
+        margin-top: 30px;
+        width: 304px;
+        height: 570.88px;
+    }
+    
+    .advantages-content {
+        width: 300px;
+        height: 60px;
+        font-size: 26px;
+    }
+    
+    .advantages-box {
+        margin-top: 28px;
+        width: 304px;
+        height: 510.88px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    
+    .advantages-box-unit-1 {
+        width: 303px;
+        height: 104.88px;
+        display: flex;
+        flex-direction: row;
+        background: url(imges/main-section/advantages/group\ 772.svg) no-repeat;
+    }
+    
+    .advantages-box-unit-2 {
+        width: 304px;
+        height: 104.88px;
+        display: flex;
+        flex-direction: row;
+        background: url(imges/main-section/advantages/group\ 772.svg) no-repeat;
+    }
+    
+    .advantages-box-unit-3 {
+        width: 303px;
+        height: 104.88px;
+        display: flex;
+        flex-direction: row;
+        background: url(imges/main-section/advantages/group\ 772.svg) no-repeat;
+    }
+    
+    .advantages-box-unit-4 {
+        width: 300px;
+        height: 104.88px;
+        display: flex;
+        flex-direction: row;
+        background: url(imges/main-section/advantages/group\ 772.svg) no-repeat;
+    }
+    
+    .advantages-box-unit-img {
+        width: 55px;
+        height: 55px;
+        margin-top: 13px;
+    }
+    
+    .advantages-box-unit-img-4 {
+        width: 55px;
+        height: 55px;
+        margin: 13px 0 0 0;
+    }
+    
+    .advantages-box-unit-content-1 {
+        margin: 13px 0 0 9px;
+    }
+    
+    .advantages-box-unit-content-2 {
+        margin: 13px 0 0 8px;
+    }
+    
+    .advantages-box-unit-content-3 {
+        margin: 13px 0 0 4px;
+    }
+    
+    .advantages-box-unit-content-4 {
+        margin: 13px 0 0 13px;
+    }
+    
+    .advantages-box-unit-content-main {
+        width: 236px;
+    }
+    
+    .advantages-box-unit-content-secondary {
+        width: 236px;
+        height: 47px;
+    }
+
+
+
+
+
+
+
+
+
+
+    .feedback-section {
+        margin-top: 55px;
+        width: 480px;
+        height: 489px;
+        background: url(imges/mobile-form/feedback/frt_2\ 1.svg) no-repeat bottom, linear-gradient(360deg, #212121 0%, #003471 100%);;
+        mix-blend-mode: normal;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .feedback-box {
+        margin: 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+    }
+    
+    .feedback-main-content {
+        margin-top: 29px;
+        width: 300px;
+        height: 46px;
+        font-size: 26px;
+        justify-content: center;
+    }
+    
+    .feedback-secondary-content {
+        margin-top: 12px;
+        width: 300px;
+        height: 85px;
+        font-size: 16px;
+        text-align: center;
+    }
+    
+    .feedback-btn {
+        margin-top: 35px;
+    }
+    
+
+
+
+
+
+
+
+
+    .reviews-section {
+        margin-top: 30px;
+        margin-bottom: 35px;
+        width: 301px;
+        height: 421px;
+    }
+        
+    .reviews-content {
+        width: 300px;
+        height: 37px;
+        font-size: 26px;
+        text-align: center;
+    }
+
+    .reviews-link {
+        display: none;
+    }
+
+    .reviews-box-for-mobile-form-2 {
+        display: none;
+    }
+
+    .reviews-box-for-mobile-form-3 {
+        display: none;
+    }
+    
+    .reviews-main-box {
+        margin-top: 17px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    
+    .reviews-box {
+        width: 300px;
+        height: 274px;
+        padding: 31px 21px 62px 24px;
+    }
+    
+    .reviews-main-content {
+        font-size: 16px;
+    }
+    
+    .reviews-secondary-content {
+        margin-top: 20px;
+        font-size: 16px;
+    }
+    
+    .reviews-stars {
+        font-size: 16px;
+    }
+
+    .reviews-scroll {
+        margin-top: 17px;
+        width: 301px;
+        height: 17px;
+        background: url(imges/mobile-form/rewiews/Group\ 649.svg) no-repeat center;
+    }
+
+    .reviews-link-for-mobile-form {
+        margin-top: 25px;
+        padding-left: 12px;
+        display: flex;
+        width: 301px;
+        height: 34px;
+        background: url(imges/main-section/rewiews/Group\ 302.svg) no-repeat center;
+    }
+
+
+
+
+
+
+
+
+
+    .footer-section {
+        width: 480px;
+        height: 729px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 0 80px;
+    }
+    
+    .footer-logo-box {
+        width: 300px;
+        height: 57.54px;
+        margin-top: 44px;
+        align-items: center;
+    }
+    
+    .footer-logo {
+        display: flex;
+        flex-direction: row;
+    }
+    
+    .footer-logo-link {
+        width: 49.92px;
+        height: 57.51px;
+        background: url(imges/footer/логотип\ -\ Роман\ Голущенко\ 1.svg) no-repeat center;
+        mix-blend-mode: lighten;
+    }
+    
+    .footer-logo-content {
+        margin-left: 13px;
+    }
+    
+    .footer-logo-main-content {
+        font-size: 26px;
+    }
+    
+    .footer-logo-secondary-content {
+        margin-top: 6px;
+        font-size: 11px;
+    }
+    
+    .footer-logo-text-1 {
+        display: none;
+    }
+    
+    .footer-logo-text-2 {
+        display: none;
+    }
+    
+    .footer-menu-box {
+        margin: 35px 0 0 0;
+        width: 300px;
+        height: 193px;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+    
+    .footer-menu-link {
+        padding-top: 5px;
+    }
+    
+    .footer-contacts {
+        margin-top: 36px;
+        width: 300px;
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .footer-contact-1 {
+        margin: 0;
+        height: 28px;
+    }
+    
+    .footer-contact-2 {
+        margin: 12px 0 0 0;
+        height: 28px;
+    }
+    
+    .footer-contact-3 {
+        margin: 11px 0 0 0;
+        height: 22px;
+    }
+    
+    .footer-btn-contact {
+        margin: 34px 0 0 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    
+    .footer-logo-tel {
+        padding-left: 22.65px;
+    }
+
+    .footer-logo-text-1-for-mobile-form {
+        display: flex;
+        margin-top: 34px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 13px;
+        line-height: 15px;
+        justify-content: center;
+        color: rgba(255, 255, 255, 0.4);
+    }
+    
+    .footer-logo-text-2-for-mobile-form {
+        display: flex;
+        margin-top: 10px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 13px;
+        line-height: 15px;
+        justify-content: center;
+        color: rgba(255, 255, 255, 0.4);
+    }
+
+}
