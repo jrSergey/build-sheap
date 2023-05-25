@@ -713,11 +713,27 @@
     }
 
     .reviews-box-for-mobile-form-2 {
-        display: none;
+        position: absolute;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: flex-start;
+        width: 300px;
+        height: 274px;
+        padding: 31px 21px 62px 24px;
+        animation: activation-reviews-box-for-mobile-form-2 1s 5s linear backwards;
     }
 
     .reviews-box-for-mobile-form-3 {
-        display: none;
+        position: absolute;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: flex-start;
+        width: 300px;
+        height: 274px;
+        padding: 31px 21px 62px 24px;
+        animation: activation-reviews-box-for-mobile-form-3 1s 10s linear backwards;
     }
     
     .reviews-main-box {
@@ -760,6 +776,16 @@
         width: 301px;
         height: 34px;
         background: url(imges/main-section/rewiews/Group\ 302.svg) no-repeat center;
+    }
+
+    @keyframes activation-reviews-box-for-mobile-form-2 {
+        from {opacity: 0; visibility: hidden;}
+        to {opacity: 1; visibility: visible;}
+    }
+
+    @keyframes activation-reviews-box-for-mobile-form-3 {
+        from {opacity: 0; visibility: hidden;}
+        to {opacity: 1; visibility: visible;}
     }
 
 
